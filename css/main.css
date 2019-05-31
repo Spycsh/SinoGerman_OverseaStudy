@@ -1768,7 +1768,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5bb0c2;
+  background: #5b7a4d;
 }
 .feed-link,
 .chat {
@@ -2960,14 +2960,8 @@ ul.breadcrumb li+li:last-child {
     margin: 8px 0 0;
   }
 }
-html {
-  height: 100%;
-}
 body {
-  padding: 0;
-  margin: 0;
   background: url("https://avos-cloud-rj6ebqnzvptr.s3.amazonaws.com/ce8af13b4029b9924f8e/bg3.jpg");
   background-size: 100% 100%;
-  position: absolute;
   background-attachment: fixed;
 }
